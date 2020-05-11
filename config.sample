@@ -1,0 +1,4 @@
+strLDAPHost = 'ldap.example.com'
+strBindFQDN = 'cn=systemuser,ou=orgunit,o=example'
+strBindPassword = 'S0m3P@s5w0rd'
+strSearchBase = 'ou=orgunit,o=example'

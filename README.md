@@ -1,2 +1,2 @@
 # activeDirectoryReportingSubtree
-Output recursive reporting structure under an individual
+This script lists a manager and their reporting subtree based on the directReport backlinked attribute in Active Directory. 
